@@ -1,906 +1,365 @@
 #EXTM3U
 #EXTINF:-1,RTP 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/311
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/311
 #EXTINF:-1,RTP 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/309
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/309
 #EXTINF:-1,SIC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/307
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/307
 #EXTINF:-1,TVI
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/305
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/305
 #EXTINF:-1,CMTV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/292
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/292
 #EXTINF:-1,RTP2 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/436
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/436
 #EXTINF:-1,CMTV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/293
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/293
 #EXTINF:-1,TVI 24
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/294
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/294
 #EXTINF:-1,SIC Noticias
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/295
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/295
 #EXTINF:-1,SIC Noticias HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/296
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/296
 #EXTINF:-1,RTP 3
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/297
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/297
 #EXTINF:-1,RTP 3 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/298
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/298
 #EXTINF:-1,EURONEWS
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/145
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/145
 #EXTINF:-1,SIC Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/285
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/285
 #EXTINF:-1,TVI Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/284
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/284
 #EXTINF:-1,RTP Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/433
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/433
 #EXTINF:-1,TVI Reality
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/269
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/269
 #EXTINF:-1,TVI Reality - Mosaico
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/374
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/374
 #EXTINF:-1,TVI Reality - Camera 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/370
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/370
 #EXTINF:-1,TVI Reality - Camera 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/371
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/371
 #EXTINF:-1,TVI Reality - Camera 3
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/372
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/372
 #EXTINF:-1,TVI Reality - Camera 4
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/373
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/373
 #EXTINF:-1,TVI Ficção
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/283
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/283
 #EXTINF:-1,SIC Mulher
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/281
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/281
 #EXTINF:-1,SIC Mulher HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/282
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/282
 #EXTINF:-1,SIC Caras
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/271
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/271
 #EXTINF:-1,SIC Caras HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/272
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/272
 #EXTINF:-1,SIC Radical
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/432
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/432
 #EXTINF:-1,SIC Radical HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/396
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/396
 #EXTINF:-1,RTP Açores
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/302
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/302
 #EXTINF:-1,RTP Africa
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/303
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/303
 #EXTINF:-1,RTP Madeira
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/301
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/301
 #EXTINF:-1,RTP Memoria
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/278
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/278
 #EXTINF:-1,24 KITCHEN
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/313
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/313
 #EXTINF:-1,24 Kitchen HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/165
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/165
 #EXTINF:-1,FOOD Network HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/167
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/167
 #EXTINF:-1,MY Cuisine
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/166
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/166
 #EXTINF:-1,CANAL Q
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/279
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/279
 #EXTINF:-1,GLOBO
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/155
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/155
 #EXTINF:-1,GLOBO HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/9785
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/9785
 #EXTINF:-1,GLOBO Now
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/153
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/153
 #EXTINF:-1,GLOBO Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/422
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/422
 #EXTINF:-1,RECORD News
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/368
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/368
 #EXTINF:-1,RECORD TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/421
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/421
 #EXTINF:-1,S+ HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/173
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/173
 #EXTINF:-1,TPA ( Angola )
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/150
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/150
 #EXTINF:-1,TCV International ( Cabo Verde )
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/149
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/149
 #EXTINF:-1,DOG TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/172
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/172
 #EXTINF:-1,HISTORIA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/176
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/176
 #EXTINF:-1,CBS Reality
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/270
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/270
 #EXTINF:-1,Crime + Investigation
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/364
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/364
 #EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/275
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/275
 #EXTINF:-1,BLAZE
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/273
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/273
 #EXTINF:-1,BLAZE HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/274
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/274
 #EXTINF:-1,NATIONAL Geographic
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/178
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/178
 #EXTINF:-1,NATIONAL Geographic HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/179
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/179
 #EXTINF:-1,NAT Geo Wild HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/377
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/377
 #EXTINF:-1,TRAVEL Channel HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/163
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/163
 #EXTINF:-1,DISCOVERY Channel HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/181
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/181
 #EXTINF:-1,DISCOVERY Showcase HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/180
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/180
 #EXTINF:-1,ID Investigation Discovery
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/182
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/182
 #EXTINF:-1,FINE Living Network HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/174
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/174
 #EXTINF:-1,FUEL TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/223
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/223
 #EXTINF:-1,E! Entertainment
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/277
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/277
 #EXTINF:-1,E! Entertainment HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/276
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/276
 #EXTINF:-1,BLOOMBERG
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/397
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/397
 #EXTINF:-1,IUTV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/157
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/157
 #EXTINF:-1,REGIÕES TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/299
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/299
 #EXTINF:-1,ARTV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/288
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/288
 #EXTINF:-1,OUTDOOR  HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/426
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/426
 #EXTINF:-1,ODISSEIA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/164
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/164
 #EXTINF:-1,CACA E Pesca
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/170
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/170
 #EXTINF:-1,CACAVISION
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/425
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/425
 #EXTINF:-1,FASHION TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/353
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/353
 #EXTINF:-1,FASHION TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/375
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/375
 #EXTINF:-1,TOROS TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/169
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/169
 #EXTINF:-1,TOROS TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/424
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/424
 #EXTINF:-1,KURIAKOS TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/328
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/328
 #EXTINF:-1,ANGELUS TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/158
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/158
 #EXTINF:-1,UM
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/347
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/347
 #EXTINF:-1,M6
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/394
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/394
 #EXTINF:-1,LOCALVISÃO
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/304
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/304
 #EXTINF:-1,LUXE TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/330
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/330
 #EXTINF:-1,SANTUARIO De Fátima
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/159
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/159
 #EXTINF:-1,TV IGREJA Mundial
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/423
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/423
 #EXTINF:-1,DISNEY Junior
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/115
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/115
 #EXTINF:-1,CANAL Panda
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/113
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/113
 #EXTINF:-1,BIGGS
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/118
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/118
 #EXTINF:-1,DISNEY Channel
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/116
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/116
 #EXTINF:-1,NICK Jr.
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/120
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/120
 #EXTINF:-1,JIM Jam
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/119
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/119
 #EXTINF:-1,SIC K
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/122
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/122
 #EXTINF:-1,NICKELODEON
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/121
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/121
 #EXTINF:-1,CARTOON Network
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/117
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/117
 #EXTINF:-1,BABY TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/114
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/114
 #EXTINF:-1,TIJI
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/9787
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/9787
 #EXTINF:-1,A Bola TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/253
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/253
 #EXTINF:-1,SPORT TV +
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/3012
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/3012
 #EXTINF:-1,SPORT TV 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/250
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/250
 #EXTINF:-1,SPORT TV 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/246
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/246
 #EXTINF:-1,SPORT TV 3
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/244
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/244
 #EXTINF:-1,SPORT TV 4
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/242
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/242
 #EXTINF:-1,SPORT TV 5
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/240
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/240
 #EXTINF:-1,SPORT TV + HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/341
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/341
 #EXTINF:-1,SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/359
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/359
 #EXTINF:-1,SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/247
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/247
 #EXTINF:-1,SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/245
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/245
 #EXTINF:-1,SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/243
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/243
 #EXTINF:-1,SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/241
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/241
 #EXTINF:-1,BTV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/236
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/236
 #EXTINF:-1,BTV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/237
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/237
 #EXTINF:-1,SPORTING TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/381
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/381
 #EXTINF:-1,SPORTING TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/233
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/233
 #EXTINF:-1,PORTO Canal
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/231
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/231
 #EXTINF:-1,PORTO Canal HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/334
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/334
 #EXTINF:-1,REAL Madrid TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/230
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/230
 #EXTINF:-1,PFC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/220
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/220
 #EXTINF:-1,ELEVEN Sports 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/261
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/261
 #EXTINF:-1,ELEVEN Sports 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/259
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/259
 #EXTINF:-1,ELEVEN Sports  3
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/257
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/257
 #EXTINF:-1,ELEVEN Sports 4
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/256
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/256
 #EXTINF:-1,ELEVEN Sports 5
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/255
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/255
 #EXTINF:-1,ELEVEN Sports 6
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/254
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/254
 #EXTINF:-1,ELEVEN Sports 1 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/262
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/262
 #EXTINF:-1,ELEVEN Sports 2 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/260
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/260
 #EXTINF:-1,ELEVEN Sports 5 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/106
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/106
 #EXTINF:-1,ELEVEN Sports 6 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/105
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/105
 #EXTINF:-1,ELEVEN Sports 1 (inglês)
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/417
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/417
 #EXTINF:-1,ELEVEN Sports 2 (inglês)
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/416
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/416
 #EXTINF:-1,NBA TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/219
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/219
 #EXTINF:-1,EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/228
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/228
 #EXTINF:-1,EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/352
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/352
 #EXTINF:-1,EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/227
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/227
 #EXTINF:-1,FIGHT Network HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/427
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/427
 #EXTINF:-1,KOMBAT Sports
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/225
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/225
 #EXTINF:-1,MCS Extreme
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/226
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/226
 #EXTINF:-1,MOTORS Sports TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/221
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/221
 #EXTINF:-1,MOTORVISION
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/222
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/222
 #EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/199
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/199
 #EXTINF:-1,AXN Black
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/315
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/315
 #EXTINF:-1,AXN WHITE
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/316
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/316
 #EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/200
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/200
 #EXTINF:-1,AXN Black HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/198
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/198
 #EXTINF:-1,AXN White HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/196
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/196
 #EXTINF:-1,FOX Movies
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/213
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/213
 #EXTINF:-1,FOX
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/193
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/193
 #EXTINF:-1,FOX Comedy
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/191
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/191
 #EXTINF:-1,FOX Crime
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/189
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/189
 #EXTINF:-1,FOX Life
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/187
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/187
 #EXTINF:-1,FOX Movies HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/214
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/214
 #EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/194
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/194
 #EXTINF:-1,FOX Crime HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/190
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/190
 #EXTINF:-1,FOX Life HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/188
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/188
 #EXTINF:-1,HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/211
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/211
 #EXTINF:-1,HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/212
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/212
 #EXTINF:-1,TVSéries
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/361
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/361
 #EXTINF:-1,TVCINE 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/209
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/209
 #EXTINF:-1,TVCINE 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/207
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/207
 #EXTINF:-1,TVCINE 3
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/205
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/205
 #EXTINF:-1,TVCINE 4
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/203
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/203
 #EXTINF:-1,TVSéries HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/379
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/379
 #EXTINF:-1,TVCINE 1 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/210
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/210
 #EXTINF:-1,TVCINE 2 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/208
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/208
 #EXTINF:-1,TVCINE 3 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/206
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/206
 #EXTINF:-1,TVCINE 4 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/204
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/204
 #EXTINF:-1,AMC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/216
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/216
 #EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/363
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/363
 #EXTINF:-1,CINEMUNDO HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/215
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/215
 #EXTINF:-1,SYFY
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/185
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/185
 #EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/342
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/342
 #EXTINF:-1,AFRO Music
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/131
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/131
 #EXTINF:-1,MTV Dance
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/129
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/129
 #EXTINF:-1,MTV Portugal
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/128
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/128
 #EXTINF:-1,MTV Rocks
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/130
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/130
 #EXTINF:-1,MVM
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/366
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/366
 #EXTINF:-1,TRACE Urban
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/135
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/135
 #EXTINF:-1,MCM Pop
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/125
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/125
 #EXTINF:-1,MCM Top
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/126
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/126
 #EXTINF:-1,ICONCERTS HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/136
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/136
 #EXTINF:-1,VH1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/132
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/132
 #EXTINF:-1,VH1Classic
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/133
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/133
 #EXTINF:-1,MEZZO
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/test/test/331
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="http://biptv.uk/epg/RTP%201.png" group-title="Portugal",RTP 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52101
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 HD" tvg-logo="http://biptv.uk/epg/RTP%201.png" group-title="Portugal",RTP 1 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52100
-#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://biptv.uk/epg/RTP%202.png" group-title="Portugal",RTP 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52099
-#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 HD" tvg-logo="http://biptv.uk/epg/RTP%202.png" group-title="Portugal",RTP 2 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52098
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://biptv.uk/epg/SIC.png" group-title="Portugal",SIC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52097
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="http://biptv.uk/epg/SIC.png" group-title="Portugal",SIC HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52096
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://biptv.uk/epg/TVI%20SD.png" group-title="Portugal",TVI
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52095
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="http://biptv.uk/epg/TVI.png" group-title="Portugal",TVI HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52094
-#EXTINF:-1 tvg-id="SIC Notícias" tvg-name="SIC NOTICIAS" tvg-logo="" group-title="Portugal",SIC NOTICIAS
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51975
-#EXTINF:-1 tvg-id="SIC Notícias" tvg-name="SIC NOTICIAS HD" tvg-logo="" group-title="Portugal",SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51974
-#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="" group-title="Portugal",RTP 3
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51979
-#EXTINF:-1 tvg-id="" tvg-name="RTP3 HD" tvg-logo="" group-title="Portugal",RTP3 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51973
-#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24" tvg-logo="" group-title="Portugal",TVI 24
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51978
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="" group-title="Portugal",CMTV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51981
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="" group-title="Portugal",CMTV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51980
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV +" tvg-logo="http://biptv.uk/epg/Sport%20TV%20%2B.png" group-title="Portugal",Sport TV +
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52093
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + HD" tvg-logo="http://biptv.uk/epg/Sport%20TV%20%2B.png" group-title="Portugal",SPORT TV + HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52086
-#EXTINF:-1 tvg-id="" tvg-name="A BOLA TV" tvg-logo="http://biptv.uk/epg/A%20Bola%20TV.png" group-title="Portugal",A BOLA TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52053
-#EXTINF:-1 tvg-id="" tvg-name="LocalVisao" tvg-logo="" group-title="Portugal",LocalVisao
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51873
-#EXTINF:-1 tvg-id="" tvg-name="TV RECORD" tvg-logo="" group-title="Portugal",TV RECORD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51871
-#EXTINF:-1 tvg-id="" tvg-name="TV RECORD HD" tvg-logo="" group-title="Portugal",TV RECORD HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51870
-#EXTINF:-1 tvg-id="Globo Portugal" tvg-name="GLOBO PT" tvg-logo="http://biptv.uk/epg/TV%20Globo.png" group-title="Portugal",GLOBO PT
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51869
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NOW" tvg-logo="" group-title="Portugal",GLOBO NOW
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51868
-#EXTINF:-1 tvg-id="" tvg-name="GloboVision HD" tvg-logo="" group-title="Portugal",GloboVision HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51850
-#EXTINF:-1 tvg-id="SIC Mulher" tvg-name="SIC Mulher" tvg-logo="" group-title="Portugal",SIC Mulher
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51998
-#EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="" group-title="Portugal",Porto Canal
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51977
-#EXTINF:-1 tvg-id="" tvg-name="PORTO CANAL HD" tvg-logo="" group-title="Portugal",PORTO CANAL HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51976
-#EXTINF:-1 tvg-id="SIC Caras" tvg-name="SIC Caras" tvg-logo="" group-title="Portugal",SIC Caras
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52000
-#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS HD" tvg-logo="" group-title="Portugal",SIC CARAS HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51999
-#EXTINF:-1 tvg-id="" tvg-name="SIC Radical" tvg-logo="" group-title="Portugal",SIC Radical
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51997
-#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL HD" tvg-logo="" group-title="Portugal",SIC RADICAL HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51996
-#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI FICÇÂO" tvg-logo="" group-title="Portugal",TVI FICÇÂO
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52001
-#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI REALITY" tvg-logo="" group-title="Portugal",TVI REALITY
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52003
-#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Mosaico" tvg-logo="" group-title="Portugal",TVI Reality Mosaico
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52002
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="" group-title="Portugal",CANAL PANDA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51939
-#EXTINF:-1 tvg-id="" tvg-name="BIGGS" tvg-logo="" group-title="Portugal",BIGGS
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51940
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Portugal",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51936
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="Portugal",DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51937
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Portugal",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51938
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="Portugal",NICKELODEON
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51934
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR." tvg-logo="" group-title="Portugal",NICK JR.
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51933
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="Portugal",Baby First
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51942
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Portugal",Baby TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51941
-#EXTINF:-1 tvg-id="" tvg-name="JIM JAM" tvg-logo="" group-title="Portugal",JIM JAM
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51935
-#EXTINF:-1 tvg-id="" tvg-name="SIC Kids" tvg-logo="" group-title="Portugal",SIC Kids
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51932
-#EXTINF:-1 tvg-id="" tvg-name="TIJI" tvg-logo="" group-title="Portugal",TIJI
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51931
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids HD" tvg-logo="" group-title="Portugal",Kuriakos Kids HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51846
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1" tvg-logo="http://biptv.uk/epg/Sport%20TV%201.png" group-title="Portugal",SPORT TV 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52092
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://biptv.uk/epg/Sport%20TV%201.png" group-title="Portugal",SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52085
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport TV 1 FHD" tvg-logo="http://biptv.uk/epg/Sport%20TV%201.png" group-title="Portugal",Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52078
-#EXTINF:-1 tvg-id="SPORTTV1.4K" tvg-name="Sport Tv 1 UHD 4K" tvg-logo="http://biptv.uk/epg/Sport%20TV%201.png" group-title="Portugal",Sport Tv 1 UHD 4K
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52072
-#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="SPORT TV 2" tvg-logo="http://biptv.uk/epg/Sport%20TV%202.png" group-title="Portugal",SPORT TV 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52091
-#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="SPORT TV 2 HD" tvg-logo="http://biptv.uk/epg/Sport%20TV%202.png" group-title="Portugal",SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52084
-#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport TV 2 FHD" tvg-logo="http://biptv.uk/epg/Sport%20TV%202.png" group-title="Portugal",Sport TV 2 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52077
-#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="SPORT TV 3" tvg-logo="http://biptv.uk/epg/Sport%20TV%203.png" group-title="Portugal",SPORT TV 3
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52090
-#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://biptv.uk/epg/Sport%20TV%203.png" group-title="Portugal",SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52083
-#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport TV 3 FHD" tvg-logo="http://biptv.uk/epg/Sport%20TV%203.png" group-title="Portugal",Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52076
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4" tvg-logo="http://biptv.uk/epg/Sport%20TV%204.png" group-title="Portugal",SPORT TV 4
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52089
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport TV 4 FHD" tvg-logo="http://biptv.uk/epg/Sport%20TV%204.png" group-title="Portugal",Sport TV 4 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52075
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 HD" tvg-logo="http://biptv.uk/epg/Sport%20TV%204.png" group-title="Portugal",SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52082
-#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5" tvg-logo="http://biptv.uk/epg/Sport%20TV%205.png" group-title="Portugal",SPORT TV 5
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52088
-#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://biptv.uk/epg/Sport%20TV%205.png" group-title="Portugal",SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52081
-#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport TV 5 FHD" tvg-logo="http://biptv.uk/epg/Sport%20TV%205.png" group-title="Portugal",Sport TV 5 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52074
-#EXTINF:-1 tvg-id="SportTVNBA" tvg-name="Sport TV NBA" tvg-logo="http://biptv.uk/epg/NBA%20HD.png" group-title="Portugal",Sport TV NBA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52087
-#EXTINF:-1 tvg-id="SportTVNBAHD" tvg-name="Sport TV NBA HD" tvg-logo="http://biptv.uk/epg/NBA%20HD.png" group-title="Portugal",Sport TV NBA HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52080
-#EXTINF:-1 tvg-id="SportTVNBAHD" tvg-name="Sport TV NBA FHD" tvg-logo="http://biptv.uk/epg/NBA%20HD.png" group-title="Portugal",Sport TV NBA FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52073
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Eleven Sports 1" tvg-logo="http://biptv.uk/epg/eleven1.png" group-title="Portugal",Eleven Sports 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52071
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Eleven Sports 1 HD" tvg-logo="http://biptv.uk/epg/eleven1.png" group-title="Portugal",Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52065
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Eleven Sports 1 FHD" tvg-logo="http://biptv.uk/epg/eleven1.png" group-title="Portugal",Eleven Sports 1 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52059
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="Eleven Sports 2" tvg-logo="http://biptv.uk/epg/eleven2.png" group-title="Portugal",Eleven Sports 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52070
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="Eleven Sports 2 HD" tvg-logo="http://biptv.uk/epg/eleven2.png" group-title="Portugal",Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52064
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="Eleven Sports 2 FHD" tvg-logo="http://biptv.uk/epg/eleven2.png" group-title="Portugal",Eleven Sports 2 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52058
-#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="Eleven Sports 3" tvg-logo="http://biptv.uk/epg/eleven3.png" group-title="Portugal",Eleven Sports 3
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52069
-#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="Eleven Sports 3 HD" tvg-logo="http://biptv.uk/epg/eleven3.png" group-title="Portugal",Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52063
-#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="Eleven Sports 3 FHD" tvg-logo="http://biptv.uk/epg/eleven3.png" group-title="Portugal",Eleven Sports 3 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52057
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="Eleven Sports 4" tvg-logo="http://biptv.uk/epg/eleven4.png" group-title="Portugal",Eleven Sports 4
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52068
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="Eleven Sports 4 HD" tvg-logo="http://biptv.uk/epg/eleven4.png" group-title="Portugal",Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52062
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="Eleven Sports 4 FHD" tvg-logo="http://biptv.uk/epg/eleven4.png" group-title="Portugal",Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52056
-#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="Eleven Sports 5" tvg-logo="http://biptv.uk/epg/eleven5.png" group-title="Portugal",Eleven Sports 5
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52067
-#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="Eleven Sports 5 HD" tvg-logo="http://biptv.uk/epg/eleven5.png" group-title="Portugal",Eleven Sports 5 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52061
-#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="Eleven Sports 5 FHD" tvg-logo="http://biptv.uk/epg/eleven5.png" group-title="Portugal",Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52055
-#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="Eleven sports 6" tvg-logo="http://biptv.uk/epg/eleven6.png" group-title="Portugal",Eleven sports 6
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52066
-#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="Eleven Sports 6 HD" tvg-logo="http://biptv.uk/epg/eleven6.png" group-title="Portugal",Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52060
-#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="Eleven Sports 6 FHD" tvg-logo="http://biptv.uk/epg/eleven6.png" group-title="Portugal",Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52054
-#EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV" tvg-logo="http://biptv.uk/epg/Benfica_TV.png" group-title="Portugal",Benfica TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52051
-#EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV HD" tvg-logo="http://biptv.uk/epg/Benfica_TV.png" group-title="Portugal",Benfica TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52052
-#EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV FHD" tvg-logo="http://biptv.uk/epg/Benfica_TV.png" group-title="Portugal",Benfica TV FHD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52050
-#EXTINF:-1 tvg-id="SportingTV Full HD" tvg-name="SPORTING HD" tvg-logo="http://biptv.uk/epg/Sporting%20TV.png" group-title="Portugal",SPORTING HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52025
-#EXTINF:-1 tvg-id="SportingTV Full HD" tvg-name="SPORTING TV" tvg-logo="http://biptv.uk/epg/Sporting%20TV.png" group-title="Portugal",SPORTING TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52026
-#EXTINF:-1 tvg-id="Chelsea TV (PT)" tvg-name="CHELSEA TV" tvg-logo="http://biptv.uk/epg/ChelseaTVLogo.png" group-title="Portugal",CHELSEA TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52043
-#EXTINF:-1 tvg-id="REALMADRIDTV" tvg-name="Real Madrid TV HD" tvg-logo="http://biptv.uk/epg/Real%20Madrid%20TV.png" group-title="Portugal",Real Madrid TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52029
-#EXTINF:-1 tvg-id="BARÇA TV" tvg-name="Bar" tvg-logo="http://biptv.uk/epg/barca.png" group-title="Portugal",Bar
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52049
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://biptv.uk/epg/PFC%20HD.png" group-title="Portugal",PFC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52032
-#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="EUROSPORT 1" tvg-logo="http://biptv.uk/epg/Eurosport%201.png" group-title="Portugal",EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52048
-#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="EUROSPORT 1 HD" tvg-logo="http://biptv.uk/epg/Eurosport%201.png" group-title="Portugal",EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52047
-#EXTINF:-1 tvg-id="EUROS2" tvg-name="EUROSPORT 2" tvg-logo="http://biptv.uk/epg/Eurosport%202.png" group-title="Portugal",EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52046
-#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="FIGHT NETWORK  HD" tvg-logo="http://biptv.uk/epg/FIGHT%20NETWORK.png" group-title="Portugal",FIGHT NETWORK  HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52041
-#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="http://biptv.uk/epg/Fight%20Box.png" group-title="Portugal",FightBox
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52039
-#EXTINF:-1 tvg-id="" tvg-name="Figth Sports HD" tvg-logo="http://biptv.uk/epg/Figth%20Sports.jpg" group-title="Portugal",Figth Sports HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52042
-#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="http://biptv.uk/epg/Kombat%20Sports.png" group-title="Portugal",KOMBAT SPORT
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52033
-#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="MOTORVISION HD" tvg-logo="http://biptv.uk/epg/Motorvision%20HD.png" group-title="Portugal",MOTORVISION HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52030
-#EXTINF:-1 tvg-id="Red Bull TV HD" tvg-name="RedBull TV HD" tvg-logo="http://biptv.uk/epg/RedBull%20TV%20HD.png" group-title="Portugal",RedBull TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52028
-#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="Fuel tv" tvg-logo="http://biptv.uk/epg/Fuel%20TV.png" group-title="Portugal",Fuel tv
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52037
-#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="FUEL TV HD" tvg-logo="http://biptv.uk/epg/Fuel%20TV.png" group-title="Portugal",FUEL TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52036
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="TOROS TV" tvg-logo="http://biptv.uk/epg/Toros%20TV.png" group-title="Portugal",TOROS TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52024
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="TOROS TV HD" tvg-logo="http://biptv.uk/epg/Toros%20TV.png" group-title="Portugal",TOROS TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52023
-#EXTINF:-1 tvg-id="TVCine 1 HD" tvg-name="TV CINE 1" tvg-logo="http://biptv.uk/epg/TVC%201.png" group-title="Portugal",TV CINE 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52022
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 1 HD" tvg-logo="" group-title="Portugal",TV CINE 1 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52018
-#EXTINF:-1 tvg-id="TVCine 2 HD" tvg-name="TV CINE 2" tvg-logo="http://biptv.uk/epg/TVC%202.png" group-title="Portugal",TV CINE 2
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52021
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 2 HD" tvg-logo="" group-title="Portugal",TV CINE 2 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52017
-#EXTINF:-1 tvg-id="TVCine 3 HD" tvg-name="TV CINE 3" tvg-logo="http://biptv.uk/epg/TVC%203.png" group-title="Portugal",TV CINE 3
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52020
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 3 HD" tvg-logo="" group-title="Portugal",TV CINE 3 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52016
-#EXTINF:-1 tvg-id="TVCine 4 HD" tvg-name="TV CINE 4" tvg-logo="http://biptv.uk/epg/TVC%204.png" group-title="Portugal",TV CINE 4
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52019
-#EXTINF:-1 tvg-id="TVCine 4 HD" tvg-name="TV CINE 4 HD" tvg-logo="" group-title="Portugal",TV CINE 4 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52015
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="" group-title="Portugal",CINEMUNDO
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52014
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo HD" tvg-logo="" group-title="Portugal",Cinemundo HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52013
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="" group-title="Portugal",FOX MOVIES
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51948
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="Portugal",FOX MOVIES HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52102
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="HOLLYWOOD" tvg-logo="http://biptv.uk/epg/Hollywood.png" group-title="Portugal",HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52012
-#EXTINF:-1 tvg-id="Hollywood HD" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="Portugal",HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52011
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Portugal",AMC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51958
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Portugal",AMC HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51957
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Cine HD" tvg-logo="" group-title="Portugal",Kuriakos Cine HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51845
-#EXTINF:-1 tvg-id="TVSéries HD" tvg-name="TV SERIES" tvg-logo="http://biptv.uk/epg/TV%20Series.png" group-title="Portugal",TV SERIES
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51945
-#EXTINF:-1 tvg-id="" tvg-name="TV SERIES HD" tvg-logo="" group-title="Portugal",TV SERIES HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51944
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" tvg-logo="http://biptv.uk/epg/AXN.png" group-title="Portugal",AXN
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51964
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Portugal",AXN HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51963
-#EXTINF:-1 tvg-id="AXN Black HD" tvg-name="AXN BLACK" tvg-logo="" group-title="Portugal",AXN BLACK
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51962
-#EXTINF:-1 tvg-id="" tvg-name="AXN Black HD" tvg-logo="" group-title="Portugal",AXN Black HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51961
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="" group-title="Portugal",AXN WHITE
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51960
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="Portugal",AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51959
-#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX" tvg-logo="http://biptv.uk/epg/FOX.png" group-title="Portugal",FOX
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51956
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="Portugal",FOX HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51955
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Portugal",FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51949
-#EXTINF:-1 tvg-id="FOX Life HD" tvg-name="FOX LIFE" tvg-logo="http://biptv.uk/epg/FoxLife%20HD.png" group-title="Portugal",FOX LIFE
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51950
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="" group-title="Portugal",FOX COMEDY
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51952
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY HD" tvg-logo="" group-title="Portugal",FOX COMEDY HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51951
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME" tvg-logo="" group-title="Portugal",FOX CRIME
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51954
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME HD" tvg-logo="" group-title="Portugal",FOX CRIME HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51953
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="Portugal",SyFy
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51947
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="Portugal",SYFY HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51946
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Portugal",NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51885
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Portugal",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51884
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Portugal",NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51883
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="Portugal",NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51882
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Portugal",DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51895
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="" group-title="Portugal",DISCOVERY HD SHOWCASE
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51894
-#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery HD" tvg-logo="" group-title="Portugal",ID Investigation Discovery HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51890
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="" group-title="Portugal",HISTORIA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51886
-#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="" group-title="Portugal",CBS REALITY
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51896
-#EXTINF:-1 tvg-id="" tvg-name="CACA E PESCA" tvg-logo="" group-title="Portugal",CACA E PESCA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51897
-#EXTINF:-1 tvg-id="" tvg-name="CACAVISION" tvg-logo="" group-title="Portugal",CACAVISION
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51898
-#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA" tvg-logo="" group-title="Portugal",ODISSEIA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51887
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="" group-title="Portugal",BLAZE
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51901
-#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="" group-title="Portugal",Crime Investigation
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51899
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="" group-title="Portugal",CGTN Documentary
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51818
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="" group-title="Portugal",DOG TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51892
-#EXTINF:-1 tvg-id="OUTDOOR HD" tvg-name="OUTDOOR HD" tvg-logo="http://biptv.uk/epg/Outdoor_Channel.png" group-title="Portugal",OUTDOOR HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52031
-#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN HD" tvg-logo="" group-title="Portugal",24 KITCHEN HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51902
-#EXTINF:-1 tvg-id="" tvg-name="MAS Chic" tvg-logo="" group-title="Portugal",MAS Chic
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51880
-#EXTINF:-1 tvg-id="" tvg-name="MY CUSINE" tvg-logo="" group-title="Portugal",MY CUSINE
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51881
-#EXTINF:-1 tvg-id="" tvg-name="FINE LIVING NETWORK HD" tvg-logo="" group-title="Portugal",FINE LIVING NETWORK HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52005
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="Portugal",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52006
-#EXTINF:-1 tvg-id="" tvg-name="Canal 180" tvg-logo="" group-title="Portugal",Canal 180
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51857
-#EXTINF:-1 tvg-id="" tvg-name="CANAL Q" tvg-logo="" group-title="Portugal",CANAL Q
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51991
-#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="" group-title="Portugal",FTV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52007
-#EXTINF:-1 tvg-id="" tvg-name="LUXE TV HD" tvg-logo="" group-title="Portugal",LUXE TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51990
-#EXTINF:-1 tvg-id="" tvg-name="FashionBox HD" tvg-logo="" group-title="Portugal",FashionBox HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51987
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="" group-title="Portugal",E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51989
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT HD" tvg-logo="" group-title="Portugal",E! ENTERTAINMENT HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51988
-#EXTINF:-1 tvg-id="" tvg-name="Insight TV HD" tvg-logo="" group-title="Portugal",Insight TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51889
-#EXTINF:-1 tvg-id="" tvg-name="QYOU" tvg-logo="" group-title="Portugal",QYOU
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51916
-#EXTINF:-1 tvg-id="" tvg-name="QYOU HD" tvg-logo="" group-title="Portugal",QYOU HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51917
-#EXTINF:-1 tvg-id="" tvg-name="MCS TV Ultra HD" tvg-logo="" group-title="Portugal",MCS TV Ultra HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51874
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL" tvg-logo="" group-title="Portugal",TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51879
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL HD" tvg-logo="" group-title="Portugal",TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51878
-#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="" group-title="Portugal",EUROCHANNEL
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51854
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Portugal",TLC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51877
-#EXTINF:-1 tvg-id="" tvg-name="RTP A" tvg-logo="" group-title="Portugal",RTP A
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51995
-#EXTINF:-1 tvg-id="" tvg-name="RTP AFRICA" tvg-logo="" group-title="Portugal",RTP AFRICA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51994
-#EXTINF:-1 tvg-id="" tvg-name="RTP Internacional" tvg-logo="" group-title="Portugal",RTP Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51865
-#EXTINF:-1 tvg-id="" tvg-name="RTP Macau" tvg-logo="" group-title="Portugal",RTP Macau
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51866
-#EXTINF:-1 tvg-id="" tvg-name="RTP MADEIRA" tvg-logo="" group-title="Portugal",RTP MADEIRA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51993
-#EXTINF:-1 tvg-id="" tvg-name="RTP Memoria" tvg-logo="" group-title="Portugal",RTP Memoria
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51992
-#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" tvg-logo="" group-title="Portugal",SIC Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51852
-#EXTINF:-1 tvg-id="" tvg-name="TVI Internacional" tvg-logo="" group-title="Portugal",TVI Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51851
-#EXTINF:-1 tvg-id="" tvg-name="TVR Internacional" tvg-logo="" group-title="Portugal",TVR Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51831
-#EXTINF:-1 tvg-id="" tvg-name="France 24 FR" tvg-logo="" group-title="Portugal",France 24 FR
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51982
-#EXTINF:-1 tvg-id="" tvg-name="France 2 HD" tvg-logo="" group-title="Portugal",France 2 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51813
-#EXTINF:-1 tvg-id="" tvg-name="France 3 HD" tvg-logo="" group-title="Portugal",France 3 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51812
-#EXTINF:-1 tvg-id="" tvg-name="France 5 HD" tvg-logo="" group-title="Portugal",France 5 HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51811
-#EXTINF:-1 tvg-id="" tvg-name="BBC News World" tvg-logo="" group-title="Portugal",BBC News World
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51983
-#EXTINF:-1 tvg-id="" tvg-name="BBC ENTRETEINMENT" tvg-logo="" group-title="Portugal",BBC ENTRETEINMENT
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52008
-#EXTINF:-1 tvg-id="" tvg-name="BNT World SD" tvg-logo="" group-title="Portugal",BNT World SD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51822
-#EXTINF:-1 tvg-id="" tvg-name="BVN SD" tvg-logo="" group-title="Portugal",BVN SD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51821
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="Portugal",CCTV4
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51819
-#EXTINF:-1 tvg-id="" tvg-name="Channel 1 Russia" tvg-logo="" group-title="Portugal",Channel 1 Russia
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51816
-#EXTINF:-1 tvg-id="" tvg-name="Cubavision Internacional" tvg-logo="" group-title="Portugal",Cubavision Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51844
-#EXTINF:-1 tvg-id="" tvg-name="Deutsche Welt" tvg-logo="" group-title="",Deutsche Welt
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/47943
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="" group-title="Portugal",NHK World
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51855
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix CNE" tvg-logo="" group-title="Portugal",Phoenix CNE
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51802
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix InfoNews" tvg-logo="" group-title="Portugal",Phoenix InfoNews
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51801
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="" group-title="Portugal",RECORD NEWS
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51985
-#EXTINF:-1 tvg-id="" tvg-name="RT Docu HD" tvg-logo="" group-title="Portugal",RT Docu HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51841
-#EXTINF:-1 tvg-id="" tvg-name="RT HD" tvg-logo="" group-title="Portugal",RT HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51840
-#EXTINF:-1 tvg-id="" tvg-name="RTL SD" tvg-logo="" group-title="Portugal",RTL SD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51839
-#EXTINF:-1 tvg-id="" tvg-name="RTV SD" tvg-logo="" group-title="Portugal",RTV SD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51875
-#EXTINF:-1 tvg-id="" tvg-name="S  HD" tvg-logo="" group-title="Portugal",S  HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51860
-#EXTINF:-1 tvg-id="" tvg-name="SET ASIA" tvg-logo="" group-title="Portugal",SET ASIA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51856
-#EXTINF:-1 tvg-id="" tvg-name="SKY News HD" tvg-logo="" group-title="Portugal",SKY News HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51799
-#EXTINF:-1 tvg-id="" tvg-name="TPA" tvg-logo="" group-title="Portugal",TPA
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51864
-#EXTINF:-1 tvg-id="" tvg-name="TPA 1" tvg-logo="" group-title="Portugal",TPA 1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51863
-#EXTINF:-1 tvg-id="" tvg-name="TV Galicia HD" tvg-logo="" group-title="Portugal",TV Galicia HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51836
-#EXTINF:-1 tvg-id="" tvg-name="TVC News" tvg-logo="" group-title="Portugal",TVC News
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51834
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Portugal",TVE Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51833
-#EXTINF:-1 tvg-id="" tvg-name="Zee Mundo HD" tvg-logo="" group-title="Portugal",Zee Mundo HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51858
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="" group-title="Portugal",ZEE TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51827
-#EXTINF:-1 tvg-id="" tvg-name="1   1 Internacional" tvg-logo="" group-title="Portugal",1   1 Internacional
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51859
-#EXTINF:-1 tvg-id="" tvg-name="CGTN HD" tvg-logo="" group-title="Portugal",CGTN HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51817
-#EXTINF:-1 tvg-id="" tvg-name="Planeta RTR" tvg-logo="" group-title="Portugal",Planeta RTR
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51800
-#EXTINF:-1 tvg-id="" tvg-name="TCV" tvg-logo="" group-title="Portugal",TCV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51853
-#EXTINF:-1 tvg-id="" tvg-name="Telesur Latino HD" tvg-logo="" group-title="Portugal",Telesur Latino HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51837
-#EXTINF:-1 tvg-id="" tvg-name="Um Europa" tvg-logo="" group-title="Portugal",Um Europa
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51830
-#EXTINF:-1 tvg-id="" tvg-name="AR TV" tvg-logo="" group-title="Portugal",AR TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51984
-#EXTINF:-1 tvg-id="" tvg-name="DocuBox HD" tvg-logo="" group-title="Portugal",DocuBox HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51891
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Fun Box HD" tvg-logo="" group-title="Portugal",Fast & Fun Box HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51986
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox HD" tvg-logo="" group-title="Portugal",FilmBox HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52010
-#EXTINF:-1 tvg-id="" tvg-name="Inter" tvg-logo="" group-title="Portugal",Inter
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51815
-#EXTINF:-1 tvg-id="" tvg-name="IUTV HD" tvg-logo="" group-title="Portugal",IUTV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51872
-#EXTINF:-1 tvg-id="" tvg-name="MyZen TV HD" tvg-logo="" group-title="Portugal",MyZen TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52004
-#EXTINF:-1 tvg-id="" tvg-name="ProTV" tvg-logo="" group-title="Portugal",ProTV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51862
-#EXTINF:-1 tvg-id="" tvg-name="Sony Maxx SD" tvg-logo="" group-title="Portugal",Sony Maxx SD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51838
-#EXTINF:-1 tvg-id="" tvg-name="STV" tvg-logo="" group-title="Portugal",STV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51826
-#EXTINF:-1 tvg-id="" tvg-name="TV5Monde" tvg-logo="" group-title="Portugal",TV5Monde
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51835
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="Portugal",Zee Cinema
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/52009
-#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL" tvg-logo="" group-title="Portugal",MTV PORTUGAL
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51911
-#EXTINF:-1 tvg-id="" tvg-name="MTV Base" tvg-logo="" group-title="Portugal",MTV Base
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51915
-#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="" group-title="Portugal",MTV Classic
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51806
-#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="" group-title="Portugal",MTV Dance
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51805
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="Portugal",MTV Hits
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51914
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits HD" tvg-logo="" group-title="Portugal",MTV Hits HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51804
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="" group-title="Portugal",MTV Live HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51803
-#EXTINF:-1 tvg-id="" tvg-name="MTV OMG" tvg-logo="" group-title="Portugal",MTV OMG
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51913
-#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="" group-title="Portugal",MTV Rocks
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51912
-#EXTINF:-1 tvg-id="" tvg-name="MCM POP" tvg-logo="" group-title="Portugal",MCM POP
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51906
-#EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="" group-title="Portugal",MCM TOP
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51907
-#EXTINF:-1 tvg-id="" tvg-name="AFRO MUSIC" tvg-logo="" group-title="Portugal",AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51930
-#EXTINF:-1 tvg-id="" tvg-name="BeBlack Africa" tvg-logo="" group-title="Portugal",BeBlack Africa
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51929
-#EXTINF:-1 tvg-id="" tvg-name="BeBlack Caribbean" tvg-logo="" group-title="Portugal",BeBlack Caribbean
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51928
-#EXTINF:-1 tvg-id="" tvg-name="BeBlack Klassic" tvg-logo="" group-title="Portugal",BeBlack Klassic
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51927
-#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="" group-title="Portugal",Trace Toca
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51921
-#EXTINF:-1 tvg-id="" tvg-name="Trace Toca HD" tvg-logo="" group-title="Portugal",Trace Toca HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51920
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="" group-title="Portugal",TRACE URBAN
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51919
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN HD" tvg-logo="" group-title="Portugal",TRACE URBAN HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51918
-#EXTINF:-1 tvg-id="" tvg-name="C-Music" tvg-logo="" group-title="Portugal",C-Music
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51926
-#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-logo="" group-title="Portugal",Clubbing TV
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51924
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="Portugal",MEZZO
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51909
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="Portugal",MEZZO LIVE HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51908
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="Portugal",VH1
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51923
-#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="Portugal",VH1 CLASSIC
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51922
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music HD" tvg-logo="" group-title="Portugal",Kuriakos Music HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51847
-#EXTINF:-1 tvg-id="" tvg-name="Fatima TV HD" tvg-logo="" group-title="Portugal",Fatima TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51849
-#EXTINF:-1 tvg-id="" tvg-name="Angelus TV SD" tvg-logo="" group-title="Portugal",Angelus TV SD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51876
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV HD" tvg-logo="" group-title="Portugal",Kuriakos TV HD
-plugin://plugin.video.f4mTester/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/m12345/m12345/51848
+plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/331
