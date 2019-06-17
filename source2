@@ -1,365 +1,1159 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/311
-#EXTINF:-1,RTP 2
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/309
-#EXTINF:-1,SIC
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/307
-#EXTINF:-1,TVI
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/305
-#EXTINF:-1,CMTV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/292
-#EXTINF:-1,RTP2 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/436
-#EXTINF:-1,CMTV HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/293
-#EXTINF:-1,TVI 24
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/294
-#EXTINF:-1,SIC Noticias
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/295
-#EXTINF:-1,SIC Noticias HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/296
-#EXTINF:-1,RTP 3
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/297
-#EXTINF:-1,RTP 3 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/298
-#EXTINF:-1,EURONEWS
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/145
-#EXTINF:-1,SIC Internacional
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/285
-#EXTINF:-1,TVI Internacional
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/284
-#EXTINF:-1,RTP Internacional
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/433
-#EXTINF:-1,TVI Reality
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/269
-#EXTINF:-1,TVI Reality - Mosaico
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/374
-#EXTINF:-1,TVI Reality - Camera 1
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/370
-#EXTINF:-1,TVI Reality - Camera 2
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/371
-#EXTINF:-1,TVI Reality - Camera 3
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/372
-#EXTINF:-1,TVI Reality - Camera 4
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/373
-#EXTINF:-1,TVI Ficção
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/283
-#EXTINF:-1,SIC Mulher
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/281
-#EXTINF:-1,SIC Mulher HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/282
-#EXTINF:-1,SIC Caras
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/271
-#EXTINF:-1,SIC Caras HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/272
-#EXTINF:-1,SIC Radical
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/432
-#EXTINF:-1,SIC Radical HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/396
-#EXTINF:-1,RTP Açores
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/302
-#EXTINF:-1,RTP Africa
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/303
-#EXTINF:-1,RTP Madeira
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/301
-#EXTINF:-1,RTP Memoria
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/278
-#EXTINF:-1,24 KITCHEN
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/313
-#EXTINF:-1,24 Kitchen HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/165
-#EXTINF:-1,FOOD Network HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/167
-#EXTINF:-1,MY Cuisine
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/166
-#EXTINF:-1,CANAL Q
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/279
-#EXTINF:-1,GLOBO
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/155
-#EXTINF:-1,GLOBO HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/9785
-#EXTINF:-1,GLOBO Now
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/153
-#EXTINF:-1,GLOBO Internacional
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/422
-#EXTINF:-1,RECORD News
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/368
-#EXTINF:-1,RECORD TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/421
-#EXTINF:-1,S+ HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/173
-#EXTINF:-1,TPA ( Angola )
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/150
-#EXTINF:-1,TCV International ( Cabo Verde )
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/149
-#EXTINF:-1,DOG TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/172
-#EXTINF:-1,HISTORIA
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/176
-#EXTINF:-1,CBS Reality
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/270
-#EXTINF:-1,Crime + Investigation
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/364
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/275
-#EXTINF:-1,BLAZE
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/273
-#EXTINF:-1,BLAZE HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/274
-#EXTINF:-1,NATIONAL Geographic
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/178
-#EXTINF:-1,NATIONAL Geographic HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/179
-#EXTINF:-1,NAT Geo Wild HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/377
-#EXTINF:-1,TRAVEL Channel HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/163
-#EXTINF:-1,DISCOVERY Channel HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/181
-#EXTINF:-1,DISCOVERY Showcase HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/180
-#EXTINF:-1,ID Investigation Discovery
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/182
-#EXTINF:-1,FINE Living Network HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/174
-#EXTINF:-1,FUEL TV HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/223
-#EXTINF:-1,E! Entertainment
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/277
-#EXTINF:-1,E! Entertainment HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/276
-#EXTINF:-1,BLOOMBERG
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/397
-#EXTINF:-1,IUTV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/157
-#EXTINF:-1,REGIÕES TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/299
-#EXTINF:-1,ARTV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/288
-#EXTINF:-1,OUTDOOR  HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/426
-#EXTINF:-1,ODISSEIA
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/164
-#EXTINF:-1,CACA E Pesca
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/170
-#EXTINF:-1,CACAVISION
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/425
-#EXTINF:-1,FASHION TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/353
-#EXTINF:-1,FASHION TV HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/375
-#EXTINF:-1,TOROS TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/169
-#EXTINF:-1,TOROS TV HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/424
-#EXTINF:-1,KURIAKOS TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/328
-#EXTINF:-1,ANGELUS TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/158
-#EXTINF:-1,UM
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/347
-#EXTINF:-1,M6
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/394
-#EXTINF:-1,LOCALVISÃO
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/304
-#EXTINF:-1,LUXE TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/330
-#EXTINF:-1,SANTUARIO De Fátima
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/159
-#EXTINF:-1,TV IGREJA Mundial
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/423
-#EXTINF:-1,DISNEY Junior
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/115
-#EXTINF:-1,CANAL Panda
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/113
-#EXTINF:-1,BIGGS
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/118
-#EXTINF:-1,DISNEY Channel
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/116
-#EXTINF:-1,NICK Jr.
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/120
-#EXTINF:-1,JIM Jam
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/119
-#EXTINF:-1,SIC K
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/122
-#EXTINF:-1,NICKELODEON
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/121
-#EXTINF:-1,CARTOON Network
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/117
-#EXTINF:-1,BABY TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/114
-#EXTINF:-1,TIJI
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/9787
-#EXTINF:-1,A Bola TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/253
-#EXTINF:-1,SPORT TV +
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/3012
-#EXTINF:-1,SPORT TV 1
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/250
-#EXTINF:-1,SPORT TV 2
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/246
-#EXTINF:-1,SPORT TV 3
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/244
-#EXTINF:-1,SPORT TV 4
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/242
-#EXTINF:-1,SPORT TV 5
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/240
-#EXTINF:-1,SPORT TV + HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/341
-#EXTINF:-1,SPORT TV 1 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/359
-#EXTINF:-1,SPORT TV 2 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/247
-#EXTINF:-1,SPORT TV 3 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/245
-#EXTINF:-1,SPORT TV 4 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/243
-#EXTINF:-1,SPORT TV 5 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/241
-#EXTINF:-1,BTV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/236
-#EXTINF:-1,BTV HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/237
-#EXTINF:-1,SPORTING TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/381
-#EXTINF:-1,SPORTING TV HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/233
-#EXTINF:-1,PORTO Canal
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/231
-#EXTINF:-1,PORTO Canal HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/334
-#EXTINF:-1,REAL Madrid TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/230
-#EXTINF:-1,PFC
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/220
-#EXTINF:-1,ELEVEN Sports 1
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/261
-#EXTINF:-1,ELEVEN Sports 2
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/259
-#EXTINF:-1,ELEVEN Sports  3
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/257
-#EXTINF:-1,ELEVEN Sports 4
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/256
-#EXTINF:-1,ELEVEN Sports 5
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/255
-#EXTINF:-1,ELEVEN Sports 6
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/254
-#EXTINF:-1,ELEVEN Sports 1 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/262
-#EXTINF:-1,ELEVEN Sports 2 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/260
-#EXTINF:-1,ELEVEN Sports 5 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/106
-#EXTINF:-1,ELEVEN Sports 6 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/105
-#EXTINF:-1,ELEVEN Sports 1 (inglês)
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/417
-#EXTINF:-1,ELEVEN Sports 2 (inglês)
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/416
-#EXTINF:-1,NBA TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/219
-#EXTINF:-1,EUROSPORT 1
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/228
-#EXTINF:-1,EUROSPORT 1 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/352
-#EXTINF:-1,EUROSPORT 2
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/227
-#EXTINF:-1,FIGHT Network HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/427
-#EXTINF:-1,KOMBAT Sports
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/225
-#EXTINF:-1,MCS Extreme
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/226
-#EXTINF:-1,MOTORS Sports TV
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/221
-#EXTINF:-1,MOTORVISION
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/222
-#EXTINF:-1,AXN
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/199
-#EXTINF:-1,AXN Black
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/315
-#EXTINF:-1,AXN WHITE
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/316
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/200
-#EXTINF:-1,AXN Black HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/198
-#EXTINF:-1,AXN White HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/196
-#EXTINF:-1,FOX Movies
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/213
-#EXTINF:-1,FOX
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/193
-#EXTINF:-1,FOX Comedy
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/191
-#EXTINF:-1,FOX Crime
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/189
-#EXTINF:-1,FOX Life
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/187
-#EXTINF:-1,FOX Movies HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/214
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/194
-#EXTINF:-1,FOX Crime HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/190
-#EXTINF:-1,FOX Life HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/188
-#EXTINF:-1,HOLLYWOOD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/211
-#EXTINF:-1,HOLLYWOOD HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/212
-#EXTINF:-1,TVSéries
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/361
-#EXTINF:-1,TVCINE 1
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/209
-#EXTINF:-1,TVCINE 2
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/207
-#EXTINF:-1,TVCINE 3
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/205
-#EXTINF:-1,TVCINE 4
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/203
-#EXTINF:-1,TVSéries HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/379
-#EXTINF:-1,TVCINE 1 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/210
-#EXTINF:-1,TVCINE 2 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/208
-#EXTINF:-1,TVCINE 3 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/206
-#EXTINF:-1,TVCINE 4 HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/204
-#EXTINF:-1,AMC
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/216
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/363
-#EXTINF:-1,CINEMUNDO HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/215
-#EXTINF:-1,SYFY
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/185
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/342
-#EXTINF:-1,AFRO Music
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/131
-#EXTINF:-1,MTV Dance
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/129
-#EXTINF:-1,MTV Portugal
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/128
-#EXTINF:-1,MTV Rocks
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/130
-#EXTINF:-1,MVM
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/366
-#EXTINF:-1,TRACE Urban
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/135
-#EXTINF:-1,MCM Pop
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/125
-#EXTINF:-1,MCM Top
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/126
-#EXTINF:-1,ICONCERTS HD
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/136
-#EXTINF:-1,VH1
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/132
-#EXTINF:-1,VH1Classic
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/133
-#EXTINF:-1,MEZZO
-plugin://plugin.video.f4mPintoer/?name=m.team tv&streamtype=TSDOWNLOADER&amp;url=http://speedtvstars.com:25461/Pinto/Pinto/331
+#EXTINF:-1,PT- RTP 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8826
+#EXTINF:-1,PT- RTP 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8825
+#EXTINF:-1,PT- RTP 3
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8824
+#EXTINF:-1,PT- RTP Acores
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8823
+#EXTINF:-1,PT- RTP Ãfrica
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8822
+#EXTINF:-1,PT- RTP Madeira
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8821
+#EXTINF:-1,PT- RTP Memoria
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8820
+#EXTINF:-1,PT- SIC
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8819
+#EXTINF:-1,PT- SIC Caras
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8818
+#EXTINF:-1,PT- SIC HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8817
+#EXTINF:-1,PT- SIC K
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8816
+#EXTINF:-1,PT- SIC Kids HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8815
+#EXTINF:-1,PT- SIC Mulher
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8814
+#EXTINF:-1,PT- SIC Noticias
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8813
+#EXTINF:-1,PT- SIC Noticias HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8812
+#EXTINF:-1,PT- SIC Radical
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8811
+#EXTINF:-1,PT- SPORT TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8810
+#EXTINF:-1,PT- SPORT TV   HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8809
+#EXTINF:-1,PT- SPORTING TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8808
+#EXTINF:-1,PT- SPORTTV 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8807
+#EXTINF:-1,PT- SPORTTV 1 SD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8806
+#EXTINF:-1,PT- SPORTTV 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8805
+#EXTINF:-1,PT- SPORTTV 2 SD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8804
+#EXTINF:-1,PT- SPORTTV 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8803
+#EXTINF:-1,PT- SPORTTV 3 SD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8802
+#EXTINF:-1,PT- SPORTTV 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8801
+#EXTINF:-1,PT- SPORTTV 5 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8800
+#EXTINF:-1,PT- EUROSPORT 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8853
+#EXTINF:-1,PT- EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8852
+#EXTINF:-1,PT- EUROSPORT NEWS
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8850
+#EXTINF:-1,PT- EuroSport 2 XTRA HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8851
+#EXTINF:-1,PT- BTV 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8867
+#EXTINF:-1,PT- Caca & Pesca
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8866
+#EXTINF:-1,PT- Canal Historia
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8865
+#EXTINF:-1,PT- CANAL PANDA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8864
+#EXTINF:-1,PT- Cancao Nova
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8863
+#EXTINF:-1,PT- TVCINE 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8795
+#EXTINF:-1,PT- TVCINE 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8794
+#EXTINF:-1,PT- TVCINE 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8793
+#EXTINF:-1,PT- TVCINE 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8792
+#EXTINF:-1,PT- TVE Internacional
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8791
+#EXTINF:-1,PT- TVI
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8790
+#EXTINF:-1,PT- Tvi 24
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8789
+#EXTINF:-1,PT- TVI FICCAO
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8788
+#EXTINF:-1,PT- TVI REALITY
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8787
+#EXTINF:-1,PT- TV Globo Premium
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8796
+#EXTINF:-1,PT- Odisseia
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8830
+#EXTINF:-1,PT- Hollywood HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8839
+#EXTINF:-1,PT- 24 Kitchen HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8876
+#EXTINF:-1,PT- A&E
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8875
+#EXTINF:-1,PT- ABOLA TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8874
+#EXTINF:-1,PT- Afro Music
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8873
+#EXTINF:-1,PT- AXN HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8871
+#EXTINF:-1,PT- AXN WHITE
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8870
+#EXTINF:-1,PT- AXN BLACK HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8872
+#EXTINF:-1,PT- Biggs
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8868
+#EXTINF:-1,PT- CBS Reality
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8861
+#EXTINF:-1,PT- CINEMUNDO
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8860
+#EXTINF:-1,PT- CMTV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8859
+#EXTINF:-1,PT- E! Entertaunment
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8855
+#EXTINF:-1,PT- EUroNews
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8854
+#EXTINF:-1,PT- FOX COMEDY
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8849
+#EXTINF:-1,PT- FOX Crime HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8848
+#EXTINF:-1,PT- FOX HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8847
+#EXTINF:-1,PT- Fox Life HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8846
+#EXTINF:-1,PT- FOX Movies
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8845
+#EXTINF:-1,PT- Fuel TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8844
+#EXTINF:-1,PT- FX
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8843
+#EXTINF:-1,PT- Globo
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8842
+#EXTINF:-1,PT- Globo Premium
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8841
+#EXTINF:-1,PT- MCM Pop
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8838
+#EXTINF:-1,PT- MOV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8835
+#EXTINF:-1,PT- MTV Portugal
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8834
+#EXTINF:-1,PT- PFC
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8829
+#EXTINF:-1,PT- Porto Canal
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8828
+#EXTINF:-1,PT- Record News
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8827
+#EXTINF:-1,PT- TLC
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8799
+#EXTINF:-1,PT- TPA Angola
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8798
+#EXTINF:-1,PT- Motors TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8837
+#EXTINF:-1,PT- Motorvision
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8836
+#EXTINF:-1,PT- Travel Channel HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8797
+#EXTINF:-1,PT- Historia
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8840
+#EXTINF:-1,PT- Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8833
+#EXTINF:-1,PT- National Geographic HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8832
+#EXTINF:-1,PT- Nickelodeon
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8831
+#EXTINF:-1,PT- Discovery Channel
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8858
+#EXTINF:-1,PT- Discovery Showcase HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8857
+#EXTINF:-1,PT- Baby Tv
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8869
+#EXTINF:-1,PT- Cartoon NetWork
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8862
+#EXTINF:-1,PT- Disney Channel
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8856
+#EXTINF:-1,FR: Chasse & peche
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7589
+#EXTINF:-1,FR: Trek My
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7593
+#EXTINF:-1,Fr: Canal    Décalé HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8073
+#EXTINF:-1,Fr: Canal    Sport HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8072
+#EXTINF:-1,Fr: Canal   Cinema HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8071
+#EXTINF:-1,Fr: Canal   HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8070
+#EXTINF:-1,Fr: Canal  Family HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8069
+#EXTINF:-1,Fr: Canal  serie HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8068
+#EXTINF:-1,Fr: Canal J
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8067
+#EXTINF:-1,Fr: Cartoon network  Fr
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8066
+#EXTINF:-1,Fr: Chérie 25 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8065
+#EXTINF:-1,Fr: Cine   Frisson
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8064
+#EXTINF:-1,Fr: Cine   Premier
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8063
+#EXTINF:-1,Fr: Cine  Classic HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8062
+#EXTINF:-1,Fr: Cine  emotion HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8061
+#EXTINF:-1,Fr: Cine  Famiz HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8060
+#EXTINF:-1,Fr: Cine FX
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8059
+#EXTINF:-1,Fr: Cine Polar
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8058
+#EXTINF:-1,Fr: France 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8044
+#EXTINF:-1,Fr: France 3
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8042
+#EXTINF:-1,Fr: France 4
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8041
+#EXTINF:-1,Fr: France 5
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8040
+#EXTINF:-1,Fr: France O
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8039
+#EXTINF:-1,Fr: A la carte 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8090
+#EXTINF:-1,Fr: A la carte 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8089
+#EXTINF:-1,Fr: A la carte 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8088
+#EXTINF:-1,Fr: A la carte 5 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8086
+#EXTINF:-1,Fr: Berbere Television
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8081
+#EXTINF:-1,Fr: BFM TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8079
+#EXTINF:-1,Fr: Arte HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8085
+#EXTINF:-1,Fr: 13eme Rue HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8092
+#EXTINF:-1,Fr: 6TER HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8091
+#EXTINF:-1,Fr: C 8 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8076
+#EXTINF:-1,Fr: C News
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8075
+#EXTINF:-1,Fr: C Star HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8074
+#EXTINF:-1,Fr: Comédie   HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8057
+#EXTINF:-1,Fr: E! Entertainment HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8049
+#EXTINF:-1,Fr: Equidia Live HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8048
+#EXTINF:-1,Fr: Euronews Fr
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8047
+#EXTINF:-1,Fr: FRANCE 24 NEWS FR
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8043
+#EXTINF:-1,Fr: Game One HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8038
+#EXTINF:-1,Fr: Golf   HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8037
+#EXTINF:-1,Fr: Gulli
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8036
+#EXTINF:-1,Fr: HD1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8035
+#EXTINF:-1,Fr: Histoire
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8034
+#EXTINF:-1,Fr: LCI
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8030
+#EXTINF:-1,Fr: M6 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8029
+#EXTINF:-1,Fr: NRJ 12 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8024
+#EXTINF:-1,Fr: Numéro 23
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8023
+#EXTINF:-1,Fr: OCS CHOC HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8022
+#EXTINF:-1,Fr: OCS City HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8021
+#EXTINF:-1,Fr: OCS Geant HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8020
+#EXTINF:-1,Fr: OCS Max HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8019
+#EXTINF:-1,Fr: Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8018
+#EXTINF:-1,Fr: Paris Premiere HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8017
+#EXTINF:-1,Fr: RMC Découverte
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8013
+#EXTINF:-1,Fr: RTL 9 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8012
+#EXTINF:-1,Fr: RTS Deux HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8011
+#EXTINF:-1,Fr: RTS Un HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8010
+#EXTINF:-1,Fr: Serie Club HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8009
+#EXTINF:-1,Fr: Syfy HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8005
+#EXTINF:-1,Fr: TCM Cinema HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8004
+#EXTINF:-1,Fr: Teletoon HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8003
+#EXTINF:-1,Fr: Téva HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8002
+#EXTINF:-1,Fr: TMC HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8000
+#EXTINF:-1,Fr: TV5 Europe
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7999
+#EXTINF:-1,Fr: Voyage
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7997
+#EXTINF:-1,Fr: W9 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7996
+#EXTINF:-1,Fr: Planet   A&E HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8015
+#EXTINF:-1,Fr: Planete  CI HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8014
+#EXTINF:-1,Fr: Ushuaia HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7998
+#EXTINF:-1,Fr: Discovery channel HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8056
+#EXTINF:-1,Fr: Discovery Investigation HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8055
+#EXTINF:-1,Fr: Discovery Science HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8054
+#EXTINF:-1,Fr: National Geo HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8028
+#EXTINF:-1,Fr: National Geo Wild HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8027
+#EXTINF:-1,Fr: Nickelodeon HD FR
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8026
+#EXTINF:-1,Fr: Nickelodeon Junior FR
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8025
+#EXTINF:-1,Fr: Disney Channel FR
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8053
+#EXTINF:-1,Fr: Disney Cinema Fr HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8052
+#EXTINF:-1,Fr: Disney Junior FR
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8051
+#EXTINF:-1,Fr: Disney XD FR
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8050
+#EXTINF:-1,Fr: Boomerang France HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8077
+#EXTINF:-1,Fr: Piwi
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8016
+#EXTINF:-1,Fr: TF1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8001
+#EXTINF:-1,Fr: Eurosport 1 Fr
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8046
+#EXTINF:-1,Fr: InfoSport
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8033
+#EXTINF:-1,Fr- BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14041
+#EXTINF:-1,Fr- BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14040
+#EXTINF:-1,Fr- BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14039
+#EXTINF:-1,Fr- BEIN MAX 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14038
+#EXTINF:-1,Fr- BEIN MAX 5 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14037
+#EXTINF:-1,Fr- BEIN MAX 6 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14036
+#EXTINF:-1,Fr- BEIN MAX 7 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14035
+#EXTINF:-1,Fr- BEIN MAX 8 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14034
+#EXTINF:-1,Fr- BEIN MAX 9 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14033
+#EXTINF:-1,Fr- RMC News HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15726
+#EXTINF:-1,Fr- RMC Sport 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14046
+#EXTINF:-1,Fr- RMC Sport 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14045
+#EXTINF:-1,Fr- RMC Sport 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14044
+#EXTINF:-1,Fr- RMC Sport 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14043
+#EXTINF:-1,Fr- RMC Sport 5 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14042
+#EXTINF:-1,Fr- RMC ACCESS SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15721
+#EXTINF:-1,Fr- RMC ACCESS SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15720
+#EXTINF:-1,Fr- RMC ACCESS SPORT 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15719
+#EXTINF:-1,Fr- RMC ACCESS SPORT 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15718
+#EXTINF:-1,Fr- RMC SPORT 1 HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15725
+#EXTINF:-1,Fr- RMC SPORT 2 HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15724
+#EXTINF:-1,Fr- RMC SPORT 3 HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15723
+#EXTINF:-1,Fr- RMC STORY HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15717
+#EXTINF:-1,Fr- RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/15716
+#EXTINF:-1,It- RAI 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9447
+#EXTINF:-1,It- RAI 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9446
+#EXTINF:-1,It- RAI 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9445
+#EXTINF:-1,It- RAI 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9444
+#EXTINF:-1,It- RAI 5
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9443
+#EXTINF:-1,It- Rai News 24
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9442
+#EXTINF:-1,It- Sky Cinema 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9434
+#EXTINF:-1,It- Sky Cinema  24 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9435
+#EXTINF:-1,It- Sky Cinema Hits HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9428
+#EXTINF:-1,It- Sky Cinema Max HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9427
+#EXTINF:-1,It- Sky Cinema Cult HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9430
+#EXTINF:-1,It- Sky Cinema Atlantic HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9433
+#EXTINF:-1,It- Sky Cinema Classic HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9432
+#EXTINF:-1,It- Sky Cinema Comedy HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9431
+#EXTINF:-1,It- Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9429
+#EXTINF:-1,It- SKY Cinema Passion HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9426
+#EXTINF:-1,It- Premium Action HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9459
+#EXTINF:-1,It- Premium Cinema Energy
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9456
+#EXTINF:-1,It- Premium Cinema HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9455
+#EXTINF:-1,It- Premium Crime HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9454
+#EXTINF:-1,It- Premium Emotion HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9453
+#EXTINF:-1,It- Premium Stories HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9448
+#EXTINF:-1,It- Fox Crime HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9462
+#EXTINF:-1,It- Fox HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9461
+#EXTINF:-1,It- Fox Life HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9460
+#EXTINF:-1,It- Sky Uno HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9417
+#EXTINF:-1,It- Sky Sport MotoGP HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9420
+#EXTINF:-1,It- Sky Calcio 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9439
+#EXTINF:-1,It- Sky Calcio 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9438
+#EXTINF:-1,It- Sky Calcio 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9437
+#EXTINF:-1,It- Sky Calcio 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9436
+#EXTINF:-1,It- Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9421
+#EXTINF:-1,It- Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9425
+#EXTINF:-1,It- Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9424
+#EXTINF:-1,It- Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9422
+#EXTINF:-1,It- Sky Sport 24 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9423
+#EXTINF:-1,It- Eurosport
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9464
+#EXTINF:-1,It- Eurosport 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9463
+#EXTINF:-1,It- Premium Calcio
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9458
+#EXTINF:-1,It- Premium Calcio 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9457
+#EXTINF:-1,It- Premium Fox Sport HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9452
+#EXTINF:-1,It- Premium Sport 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9451
+#EXTINF:-1,It- Premium Sport HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9450
+#EXTINF:-1,It- Premium Sport HD 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9449
+#EXTINF:-1,It- Rai Sports 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9441
+#EXTINF:-1,It- Rai Sports 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9440
+#EXTINF:-1,It- Sky Supercalcio
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9419
+#EXTINF:-1,It- Sky Supertennis
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9418
+#EXTINF:-1,It- Sport Italia
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9416
+#EXTINF:-1,NL- NPO 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17518
+#EXTINF:-1,NL- NPO 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17517
+#EXTINF:-1,NL- NPO 3
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17516
+#EXTINF:-1,NL- NPO Nieuws
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17515
+#EXTINF:-1,NL- RTL 4
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17513
+#EXTINF:-1,NL- RTL 5
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17512
+#EXTINF:-1,NL- RTL 7
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17511
+#EXTINF:-1,NL- RTL 8
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17510
+#EXTINF:-1,NL- RTL Z
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17506
+#EXTINF:-1,NL- RTL Lounge
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17508
+#EXTINF:-1,NL- RTL Telekids
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17507
+#EXTINF:-1,NL- SBS 6
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17504
+#EXTINF:-1,NL- SBS 9
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17503
+#EXTINF:-1,NL- Veronica
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17495
+#EXTINF:-1,NL- Net 5
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17523
+#EXTINF:-1,NL- FOX Channel
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17535
+#EXTINF:-1,NL- Comedy Central
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17549
+#EXTINF:-1,NL- Comedy Central
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17550
+#EXTINF:-1,NL- National Geographic
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17524
+#EXTINF:-1,NL- Spike
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17501
+#EXTINF:-1,NL- Film 1 Action
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17540
+#EXTINF:-1,NL- Film 1 Family
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17538
+#EXTINF:-1,NL- Film 1 Premiere
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17537
+#EXTINF:-1,NL- Film 1 Drama
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17539
+#EXTINF:-1,NL- Eurosport 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17542
+#EXTINF:-1,NL- Eurosport 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17541
+#EXTINF:-1,NL- Fox Sports 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17534
+#EXTINF:-1,NL- Fox Sports 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17533
+#EXTINF:-1,NL- Fox Sports 3
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17532
+#EXTINF:-1,NL- Fox Sports 4
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17531
+#EXTINF:-1,NL- Fox Sports 6
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17529
+#EXTINF:-1,NL- Fox Sports 5
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17530
+#EXTINF:-1,NL- Ziggo Sport Racing
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17489
+#EXTINF:-1,NL- Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17487
+#EXTINF:-1,NL- Disney Junior
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17545
+#EXTINF:-1,NL- Nickelodeon
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17519
+#EXTINF:-1,NL- Nick Jr.
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17522
+#EXTINF:-1,NL- Cartoon Network
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17551
+#EXTINF:-1,NL- Boomerang
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17553
+#EXTINF:-1,NL- Discovery
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17546
+#EXTINF:-1,NL- TLC
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17500
+#EXTINF:-1,NL- NatGeo Wild
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17525
+#EXTINF:-1,NL- Animal Planet
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17555
+#EXTINF:-1,NL- history channel
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17528
+#EXTINF:-1,NL- RTL Crime
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17509
+#EXTINF:-1,NL- 24 Kitchen
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17556
+#EXTINF:-1,NL- Crime Inv
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17548
+#EXTINF:-1,NL- E! NL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17543
+#EXTINF:-1,NL- TV Oost
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17499
+#EXTINF:-1,NL- TV Rijnmond
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17497
+#EXTINF:-1,NL- RTV Utrecht
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17505
+#EXTINF:-1,NL- MTV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17526
+#EXTINF:-1,NL- Nick Music
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17521
+#EXTINF:-1,NL- Ons
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17514
+#EXTINF:-1,NL- TV Oranje
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17498
+#EXTINF:-1,NL- Slam!TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17502
+#EXTINF:-1,NL- Omroep Brabant NL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11019
+#EXTINF:-1,NL- Omroep Flevoland NL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11018
+#EXTINF:-1,NL- Omroep Gelderland NL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11017
+#EXTINF:-1,NL- Omroep West NL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11016
+#EXTINF:-1,NL- Omroep Zeeland NL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11015
+#EXTINF:-1,NL- Omrop Fryslan NL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11014
+#EXTINF:-1,NL- ONS NL Backup 3
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11013
+#EXTINF:-1,NL- Djazz tv
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17544
+#EXTINF:-1,NL- Viceland
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17494
+#EXTINF:-1,NL- Baby TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17554
+#EXTINF:-1,NL- Discovery Inv
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17527
+#EXTINF:-1,NL- Nick toons
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17520
+#EXTINF:-1,NL- Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17490
+#EXTINF:-1,NL- Ziggo Sport Select
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17488
+#EXTINF:-1,NL- Ziggo Sport
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17493
+#EXTINF:-1,NL- Ziggo Sport Extra 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17492
+#EXTINF:-1,NL- Ziggo Sport Extra 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17491
+#EXTINF:-1,NL- Brava
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17552
+#EXTINF:-1,NL- Food Network
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17536
+#EXTINF:-1,NL- TV West
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17496
+#EXTINF:-1,NL- 100% NL TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/17557
+#EXTINF:-1,NL- RTL 4 FHD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13537
+#EXTINF:-1,NL- RTL 5 FHD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13536
+#EXTINF:-1,NL- RTL 7 FHD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13535
+#EXTINF:-1,NL- RTL 8 FHD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13534
+#EXTINF:-1,NL- RTL Crime HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13533
+#EXTINF:-1,NL- RTL Lounge Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13532
+#EXTINF:-1,NL- RTL Z Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13529
+#EXTINF:-1,NL- NPO 1 HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13543
+#EXTINF:-1,NL- NPO 2 HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13542
+#EXTINF:-1,NL- NPO 3 Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13541
+#EXTINF:-1,NL- NPO 3 Extra Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13540
+#EXTINF:-1,NL- NPO Politiek Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13539
+#EXTINF:-1,NL- NPO Zapp HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13538
+#EXTINF:-1,NL- SBS 9 HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13551
+#EXTINF:-1,NL- SBS6 HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13550
+#EXTINF:-1,NL- Film1 Action HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13528
+#EXTINF:-1,NL- Film1 Family HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13526
+#EXTINF:-1,NL- Film1 Premiere HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13525
+#EXTINF:-1,NL- Film1 Drama HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13527
+#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11192
+#EXTINF:-1,NL- Ziggo Sport Select HD Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11193
+#EXTINF:-1,NL- Ziggo Sport Golf Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11194
+#EXTINF:-1,NL- Ziggo Sport Extra 1 Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11196
+#EXTINF:-1,NL- Ziggo Sport Extra 2 Backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11195
+#EXTINF:-1,NL- Fox Sport 1 HD backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11202
+#EXTINF:-1,NL- Fox Sport 2 HD backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11201
+#EXTINF:-1,NL- Fox Sport 3 HD backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11200
+#EXTINF:-1,NL- Fox Sport 4 HD backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11199
+#EXTINF:-1,NL- Fox Sport 5 HD backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11198
+#EXTINF:-1,NL- Fox Sport 6 HD backup
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11197
+#EXTINF:-1,NL- FOX Sports 1 HD Backup2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13549
+#EXTINF:-1,NL- FOX Sports 2 HD Backup2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13548
+#EXTINF:-1,NL- FOX Sports 3 HD Backup2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13547
+#EXTINF:-1,NL- FOX Sports 4 HD Backup2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13546
+#EXTINF:-1,NL- FOX Sports 5 HD Backup2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13545
+#EXTINF:-1,NL- FOX Sports 6 HD Backup2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13544
+#EXTINF:-1,Se- C More First HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7164
+#EXTINF:-1,Se- C More Stars HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8144
+#EXTINF:-1,Se- C More Series HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7162
+#EXTINF:-1,Se- C More Hits HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7163
+#EXTINF:-1,Se- C More Sport HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7161
+#EXTINF:-1,Se- C More Fotboll HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8376
+#EXTINF:-1,Se- C More Golf FHD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13524
+#EXTINF:-1,Se- C More Hockey FHD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13523
+#EXTINF:-1,Se- C More Live HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13508
+#EXTINF:-1,Se- C More Live 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10614
+#EXTINF:-1,Se- C More Live 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10613
+#EXTINF:-1,Se- C More Live 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10612
+#EXTINF:-1,Se- C More Live 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10611
+#EXTINF:-1,Se- Viasat Fotboll HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13515
+#EXTINF:-1,Se- Viasat Hockey HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13513
+#EXTINF:-1,Se- Viasat Motor HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13512
+#EXTINF:-1,Se- Viasat Golf SD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13514
+#EXTINF:-1,Se- Viasat Sport
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13510
+#EXTINF:-1,Se- Viasat Sport Premium HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13509
+#EXTINF:-1,Se- Viasat Sport Baltic HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8113
+#EXTINF:-1,Se- Viasat Film Family
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13517
+#EXTINF:-1,Se- Viasat Series HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13511
+#EXTINF:-1,Se- Viasat Film Action HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13518
+#EXTINF:-1,Se- Viasat Film Premiere HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13516
+#EXTINF:-1,Se- Viasat Explore
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/5264
+#EXTINF:-1,Se- Viasat History HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8115
+#EXTINF:-1,Se- Viasat Nature HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8114
+#EXTINF:-1,Se- Eurosport 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8414
+#EXTINF:-1,Se- Eurosport 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8143
+#EXTINF:-1,Se- SVT 24 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8250
+#EXTINF:-1,Se- SVT1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/5925
+#EXTINF:-1,Se- SVT2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/5927
+#EXTINF:-1,Se- Kanal 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13487
+#EXTINF:-1,Se- Kanal 5 HD (S) - Text
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13486
+#EXTINF:-1,Se- Kanal 9 HD - Text
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13485
+#EXTINF:-1,Se- Kanal 11 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13488
+#EXTINF:-1,Se- TV3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8122
+#EXTINF:-1,Se- TV 3 Sport HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13519
+#EXTINF:-1,Se- TV4 Fakta
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8120
+#EXTINF:-1,Se- TV4 FILM
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1507
+#EXTINF:-1,Se- TV4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8121
+#EXTINF:-1,Se- TV6 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8118
+#EXTINF:-1,Se- TV10 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8124
+#EXTINF:-1,Se- TV 12 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8125
+#EXTINF:-1,Se- Yle Teema & Fem HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13471
+#EXTINF:-1,Se- Kunskapskanalen HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11157
+#EXTINF:-1,Se- SF Kanalen -S1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11138
+#EXTINF:-1,Se- Sjuan
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8126
+#EXTINF:-1,Se- TLC Sverige HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13483
+#EXTINF:-1,Se- TV4 Guld
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13482
+#EXTINF:-1,Se- MTV Sweden
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11164
+#EXTINF:-1,Se- Discovery HD (S)
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13492
+#EXTINF:-1,Se- Discovery Science
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13491
+#EXTINF:-1,Se- Discovery ID
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11140
+#EXTINF:-1,Se- Discovery World
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11151
+#EXTINF:-1,Se- Investigation Discovery
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11150
+#EXTINF:-1,Se- CNN International
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13493
+#EXTINF:-1,Se- FOX (S)
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13490
+#EXTINF:-1,Se- Fight Sports
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13521
+#EXTINF:-1,Se- SportKanalen FHD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13520
+#EXTINF:-1,Se- VH1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13481
+#EXTINF:-1,Se- VH1 Classic
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13480
+#EXTINF:-1,Se- Disney XD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8160
+#EXTINF:-1,Se- Disney Junior
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8131
+#EXTINF:-1,Se- Disney Channel
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8161
+#EXTINF:-1,Se- Cartoon Network
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11142
+#EXTINF:-1,Se- Nick JR B
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11147
+#EXTINF:-1,Se- Nick Toons
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8127
+#EXTINF:-1,Se- Nickelodeon -s1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11139
+#EXTINF:-1,Se- Boomerang
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8132
+#EXTINF:-1,No- NRK1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/5936
+#EXTINF:-1,No- NRK2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7170
+#EXTINF:-1,No- NRK Super HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7169
+#EXTINF:-1,No- TV 2 Nyhetskanalen HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/5948
+#EXTINF:-1,No- TV Norge
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/1711
+#EXTINF:-1,No- TV2 Norge HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/5943
+#EXTINF:-1,No- TV3 Norge
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8109
+#EXTINF:-1,No- TV 6 Norway
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8155
+#EXTINF:-1,No- TV4 Guld
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8244
+#EXTINF:-1,No- TV 2 Zebra
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11163
+#EXTINF:-1,No- TV 2 Sportskanalen HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/7167
+#EXTINF:-1,No- VOX HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8133
+#EXTINF:-1,No- FEM HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8137
+#EXTINF:-1,No- MAX HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8412
+#EXTINF:-1,No- Viasat 4 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11161
+#EXTINF:-1,No- Viasat Series HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10684
+#EXTINF:-1,No- BBC BRIT HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8141
+#EXTINF:-1,No- BBC World News
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13469
+#EXTINF:-1,No- 6`eren HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13470
+#EXTINF:-1,No- Discovery HD (N)
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13468
+#EXTINF:-1,No- TLC Norge HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13461
+#EXTINF:-1,No- VGTV HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13460
+#EXTINF:-1,No- Eurosport HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8142
+#EXTINF:-1,No- Eurosport Norge HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8138
+#EXTINF:-1,No- Eurosport Pluss 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13466
+#EXTINF:-1,No- Eurosport Pluss 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13465
+#EXTINF:-1,No- Eurosport Pluss 3
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13464
+#EXTINF:-1,No- Eurosport Pluss 4
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13463
+#EXTINF:-1,No- Disney XD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8139
+#EXTINF:-1,No- Disney Channel
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8140
+#EXTINF:-1,No- Disney Channel (N)
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13467
+#EXTINF:-1,No- Nick JR. B
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11158
+#EXTINF:-1,No- Cartoon Network
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8111
+#EXTINF:-1,Dn- DR 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8193
+#EXTINF:-1,Dn- DR 2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8189
+#EXTINF:-1,Dn- DR 3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8245
+#EXTINF:-1,Dn- DK 4
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8194
+#EXTINF:-1,Dn- DR K
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8192
+#EXTINF:-1,Dn- DR Ultra
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8190
+#EXTINF:-1,Dn- DR Ramasjang
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8191
+#EXTINF:-1,Dn- TV 2 / Fyn
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13477
+#EXTINF:-1,Dn- TV 2 Charlie HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13476
+#EXTINF:-1,Dn- TV 2 HD (D)
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13475
+#EXTINF:-1,Dn- TV 2 News HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13474
+#EXTINF:-1,Dn- TV 2 SPORT HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13473
+#EXTINF:-1,Dn- TV 2 Zula HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13472
+#EXTINF:-1,Dn- TV 2 Bornholm
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8186
+#EXTINF:-1,Dn- TV 2 Lorry
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8184
+#EXTINF:-1,Dn- TV3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8198
+#EXTINF:-1,Dn- TV3 Puls
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8173
+#EXTINF:-1,Dn- Kanal 5 HD (D)
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10683
+#EXTINF:-1,Dn- CANAL9 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8197
+#EXTINF:-1,Dn- Discovery HD (D)
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13479
+#EXTINF:-1,Dn- TLC Danmark
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13478
+#EXTINF:-1,Dn- Nickelodeon
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11136
+#EXTINF:-1,Dn- Disney Channel Denmark
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8200
+#EXTINF:-1,Fi- Yle TV1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9609
+#EXTINF:-1,Fi- Yle TV2 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9608
+#EXTINF:-1,Fi- TV 2 Fri HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10686
+#EXTINF:-1,Fi- C More Juniori
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9623
+#EXTINF:-1,Fi- C More Max HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9622
+#EXTINF:-1,Fi- C More Sport 1 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9621
+#EXTINF:-1,Fi- C More Sport 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9620
+#EXTINF:-1,Fi- Sub
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9610
+#EXTINF:-1,Fi- JIM
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9619
+#EXTINF:-1,Fi- liv
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9618
+#EXTINF:-1,Fi- MTV3 HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9617
+#EXTINF:-1,Fi- Nelone
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9616
+#EXTINF:-1,Fi- HSTV B
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11145
+#EXTINF:-1,Fi- TV7 Plus B
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11143
+#EXTINF:-1,Fi- Discovery (F)
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/13459
+#EXTINF:-1,Es- Taquilla 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8957
+#EXTINF:-1,Es- Taquilla 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8955
+#EXTINF:-1,Es- Taquilla 3
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8954
+#EXTINF:-1,Es- Taquilla 4
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8953
+#EXTINF:-1,Es- Taquilla 5
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8952
+#EXTINF:-1,Es- Taquilla 6
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8951
+#EXTINF:-1,Es- Taquilla 7
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8950
+#EXTINF:-1,Es- Taquilla 8
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8949
+#EXTINF:-1,Es- Taquilla 9
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8948
+#EXTINF:-1,Es- Taquilla 10
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8956
+#EXTINF:-1,Es- #0
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10021
+#EXTINF:-1,Es- 24 HORAS
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10020
+#EXTINF:-1,Es- A&E
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10019
+#EXTINF:-1,Es- AMC
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10018
+#EXTINF:-1,Es- ANTENA 3
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10017
+#EXTINF:-1,Es- AXN
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10016
+#EXTINF:-1,Es- AXN WHITE
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10015
+#EXTINF:-1,Es- BARCA TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10014
+#EXTINF:-1,Es- BEIN LALIGA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10013
+#EXTINF:-1,Es- BEIN SPORTS
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10012
+#EXTINF:-1,Es- BOING
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10011
+#EXTINF:-1,Es- CALLE 13
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10010
+#EXTINF:-1,Es- CANAL COCINA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10009
+#EXTINF:-1,Es- CANAL DECASA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10008
+#EXTINF:-1,Es- CANAL ODISEA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10007
+#EXTINF:-1,Es- CAZA Y PESCA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10006
+#EXTINF:-1,Es- CLAN TVE
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10005
+#EXTINF:-1,Es- COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10004
+#EXTINF:-1,Es- COSMO
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10003
+#EXTINF:-1,Es- CUATRO
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10001
+#EXTINF:-1,Es- DISCOVERY
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/10000
+#EXTINF:-1,Es- DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9999
+#EXTINF:-1,Es- DISNEY JR
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9998
+#EXTINF:-1,Es- DISNEY XD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9997
+#EXTINF:-1,Es- DIVINITY
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9996
+#EXTINF:-1,Es- ENERGY
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9995
+#EXTINF:-1,Es- EUROSPORT 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9994
+#EXTINF:-1,Es- EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9993
+#EXTINF:-1,Es- FOX
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9992
+#EXTINF:-1,Es- FOX LIFE
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9991
+#EXTINF:-1,Es- GOL TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9990
+#EXTINF:-1,Es- HISTORIA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9989
+#EXTINF:-1,Es- HOLLYWOOD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9988
+#EXTINF:-1,Es- LA 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9986
+#EXTINF:-1,Es- LA 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9985
+#EXTINF:-1,Es- LA SEXTA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9984
+#EXTINF:-1,Es- LALIGA TV BAR
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9983
+#EXTINF:-1,Es- M.ACCION
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9982
+#EXTINF:-1,Es- M.CINE ESPANOL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9981
+#EXTINF:-1,Es- M.COMEDIA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9980
+#EXTINF:-1,Es- M.DCINE
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9979
+#EXTINF:-1,Es- M.DEP 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9978
+#EXTINF:-1,Es- M.DEP 2
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9977
+#EXTINF:-1,Es- M.ESTRENOS
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9976
+#EXTINF:-1,Es- M.FORMULA 1
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9975
+#EXTINF:-1,Es- M.FUTBOL
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9974
+#EXTINF:-1,Es- M.GOLF
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9973
+#EXTINF:-1,Es- M.MOTOGP
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9972
+#EXTINF:-1,Es- M.SERIES
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9971
+#EXTINF:-1,Es- M.SERIESXTRA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9970
+#EXTINF:-1,Es- M.XTRA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9969
+#EXTINF:-1,Es- NAT GEO WILD
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9967
+#EXTINF:-1,Es- NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9966
+#EXTINF:-1,Es- NEOX
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9965
+#EXTINF:-1,Es- NICKELODEON
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9964
+#EXTINF:-1,Es- NOVA
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9962
+#EXTINF:-1,Es- PARAMOUNT
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9961
+#EXTINF:-1,Es- Real Madrid TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9960
+#EXTINF:-1,Es- SUNDANCE
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9959
+#EXTINF:-1,Es- SYFY
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9958
+#EXTINF:-1,Es- TCM
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9957
+#EXTINF:-1,Es- TELECINCO
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9956
+#EXTINF:-1,Es- TELEDEPORTE
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9955
+#EXTINF:-1,Es- TNT
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9954
+#EXTINF:-1,Es- TOROS TV
+plugin://plugin.video.f4mTester/?name=m.team.tv&streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/9953
