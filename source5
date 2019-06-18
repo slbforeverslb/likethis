@@ -8,7 +8,42 @@
 
 <item>
 <title>OLYMPIC CHANNEL</title>
-<link>http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8</link>
+<link>http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png</fanart
 </item>
+
+
+<item>
+<title>FIGHTBOX</title>
+<link>http://ott-cdn.ucom.am/s86/index.m3u8</link>
+<thumbnail>https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png</thumbnail>
+<fanart>https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png</fanart
+</item>
+
+
+<item>
+<title>GONE FISHING</title>
+<link>https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/xLC8ulA.png</thumbnail>
+<fanart>https://i.imgur.com/xLC8ulA.png</fanart
+</item>
+
+
+<item>
+<title>GONE HUNTING</title>
+<link>https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/IDgT6aq.png</thumbnail>
+<fanart>https://i.imgur.com/IDgT6aq.png</fanart
+</item>
+
+
+<item>
+<title>LIVING OUTDOORS</title>
+<link>https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/KGaH3pH.png</thumbnail>
+<fanart>https://i.imgur.com/KGaH3pH.png</fanart
+</item>
+
+
+
