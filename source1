@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="|PT|*****GENERALITE*****|PT|" tvg-logo="" group-title="|PT| PORTUGAL |LIVE|",[B][COLOR orange][B]M.TEAM[/B][/COLOR] |PT|*****GENERALITE*****|PT|
 plugin://plugin.video.f4mTester/?name=M.TEAM&streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/violetta/violetta/321
 #EXTINF:-1 tvg-ID="RTP 1 PT" tvg-name="|PT| RTP 1 HD" tvg-logo="http://www.iconharmony.com/icons/harmony/harmony1100_82X110_RTP1HD_pt.jpg" group-title="|PT| PORTUGAL |LIVE|",[B][COLOR orange][B]M.TEAM[/B][/COLOR] |PT| RTP 1 HD
