@@ -1,1 +1,17 @@
 
+
+<item>
+<title>LIVE YOUTUBE</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/special/live/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DOCUMENTARIOS SIC TODA VERDADE</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+sic+toda+verdade/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/PidtTrxqppc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcTjmjI3fJGo5wI3YGFRvu7Pfu0A</thumbnail>
+<fanart>https://i.ytimg.com/vi/PidtTrxqppc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcTjmjI3fJGo5wI3YGFRvu7Pfu0A</fanart>
+</item>
