@@ -31,3 +31,11 @@
 <thumbnail>https://i.ytimg.com/vi/cJ_R_Uf15JQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1LjCwftAh1kk_nqc7UYK50kHe4A</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>FILMES BRASILEIROS TOP</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=filmes+da+favela/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/6XBoQLRHR70/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtaaRY0g8DTZEH1B6BtW_ttzgwvA</thumbnail>
+<fanart></fanart>
+</item>
