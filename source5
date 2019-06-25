@@ -10,8 +10,17 @@
 <item>
 <title>CANAIS DOCUMENTARIOS  ON-LINE</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?event_type=live&amp;q=documentarios+sic&amp;search_type=video</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?event_type=live&amp;q=documentários+sic+toda+verdade&amp;search_type=video</jsonrpc>
 <thumbnail>https://cdn.icon-icons.com/icons2/50/PNG/128/youtube_social_10592.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Space Videos Diferentes Directos</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCRok-0N5BS9q0aTMX-icRfA/live/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCpx7zHVbiS7XPE0jv7HveDIOWLpm5PmKYomw=s88-mo-c-c0xffffffff-rj-k-no</thumbnail>
 <fanart></fanart>
 </item>
 
