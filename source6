@@ -33,6 +33,22 @@
 </item>
 
 <item>
+<title>DOCUMENTARIOS DISCOVERY CHANNEL</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+discovery+channel/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7_5V2ePRBtIeSlUz57XETKTZCAucWUPz8sfBw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>DOCUMENTARIOS NATIONAL GEOGRAPHIC</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentaries+national+geographic/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/78qP0HpfHD0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBv5FFQZJqkyOmB5ybZLdH2-qO8Fg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>FILMES BRASILEIROS TOP</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=filmes+da+favela/</jsonrpc>
