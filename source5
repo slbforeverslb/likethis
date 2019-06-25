@@ -8,7 +8,7 @@
 
 
 <item>
-<title>[COLOR yellow] CANAIS DOCUMENTARIOS  ON-LINE[/COLOR]</title>
+<title>CANAIS DOCUMENTARIOS  ON-LINE</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?event_type=live&amp;q=documentarios&amp;search_type=video</jsonrpc>
 <thumbnail>https://cdn.icon-icons.com/icons2/50/PNG/128/youtube_social_10592.png</thumbnail>
