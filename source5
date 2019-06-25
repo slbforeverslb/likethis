@@ -15,6 +15,13 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B] Aprende inglés con Vaughan TV [/B][/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=8Sa7JnvsVRM&list=UURok-0N5BS9q0aTMX-icRfA</urlsolve>
+<thumbnail>https://webimages.grupovaughan.com/23064-e13_default/english-on-the-go.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR yellow] Fashion Television Live Stream (Europe)[/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UCRok-0N5BS9q0aTMX-icRfA/live/</jsonrpc>
