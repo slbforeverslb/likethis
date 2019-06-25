@@ -1,87 +1,21 @@
-<items>
-<item>
-<title>[COLOR white] Si tienes Problemas de Reproducción LÉEME [/COLOR]</title>
-<link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "1º Menú de configuración del Addon de YouTube "
 
-    line2 = "2º En ajustes de Youtube, la pestaña MPEG-DASH Activar Usar mpeg-dash y habilitar Proxy MPEG-DASH"
-
-    line3 = "3º También puedes instalar el YouTube Mod de Catoal que deja esas opciones activadas y que esta en la fuente de Catoal" 
-    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2L6XnJD"
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://cdn.memegenerator.es/descargar/1011243</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
 
 
 <item>
-<title>CANAIS LIVE YOUTUBE</title>
+<title>LIVE YOUTUBE</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/special/live/</jsonrpc>
-<thumbnail>https://cdn6.aptoide.com/imgs/0/9/b/09b30aeb8ae255da46d96f1cf60ffe3f_icon.png?w=256</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR white] National Geographic [/COLOR]</title>
+<title>DOCUMENTARIOS SIC TODA VERDADE</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+sic+toda+verdade/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a-/AAuE7mAsR_0C_0JyNddzXnRI8MaEzfdhMaZ8EVewBg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/PidtTrxqppc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcTjmjI3fJGo5wI3YGFRvu7Pfu0A</thumbnail>
+<fanart>https://i.ytimg.com/vi/PidtTrxqppc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcTjmjI3fJGo5wI3YGFRvu7Pfu0A</fanart>
 </item>
-
-
-<item>
-<title>[COLOR yellow][B] Aprende inglés con Vaughan TV [/B][/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=8Sa7JnvsVRM&list=UURok-0N5BS9q0aTMX-icRfA</urlsolve>
-<thumbnail>https://webimages.grupovaughan.com/23064-e13_default/english-on-the-go.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow][B] Aprende inglés con Vaughan TV [/B][/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=8Sa7JnvsVRM&list=UURok-0N5BS9q0aTMX-icRfA</urlsolve>
-<thumbnail>https://webimages.grupovaughan.com/23064-e13_default/english-on-the-go.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow] Fashion Television Live Stream (Europe)[/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCRok-0N5BS9q0aTMX-icRfA/live/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s88-mo-c-c0xffffffff-rj-k-no</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>CANAIS DOCUMENTARIOS  ON-LINE</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?event_type=live&amp;q=todaverdade&amp;search_type=video</jsonrpc>
-<thumbnail>https://cdn.icon-icons.com/icons2/50/PNG/128/youtube_social_10592.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>Space Videos Diferentes Directos</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCRok-0N5BS9q0aTMX-icRfA/live/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCpx7zHVbiS7XPE0jv7HveDIOWLpm5PmKYomw=s88-mo-c-c0xffffffff-rj-k-no</thumbnail>
-<fanart></fanart>
-</item>
-
 
 
 <item>
