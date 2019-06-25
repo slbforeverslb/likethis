@@ -8,6 +8,14 @@
 
 
 <item>
+<title>[COLOR yellow] Fashion Television Live Stream (Europe)[/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCRok-0N5BS9q0aTMX-icRfA/live/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s88-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>CANAIS DOCUMENTARIOS  ON-LINE</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?event_type=live&amp;q=todaverdade&amp;search_type=video</jsonrpc>
