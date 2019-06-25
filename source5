@@ -1,3 +1,12 @@
+<item>
+<title>CANAIS LIVE YOUTUBE</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/special/live/</jsonrpc>
+<thumbnail>https://cdn6.aptoide.com/imgs/0/9/b/09b30aeb8ae255da46d96f1cf60ffe3f_icon.png?w=256</thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 <item>
 <title>RED BULL TV</title>
