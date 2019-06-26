@@ -1,7 +1,7 @@
 
-
+[COLOR aqua][B]M.TEAM TV[/B] [/COLOR]
 <item>
-<title>LIVE YOUTUBE</title>
+<title>LIVE [COLOR aqua][B]YOUTUBE[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/special/live/</jsonrpc>
 <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/a3/55/76/a3557699-283c-893a-bda8-4bec38296ffa/AppIcon-1x_U007emarketing-85-220-9.png/1200x630wa.png</thumbnail>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>DOCUMENTARIOS SIC TODA VERDADE</title>
+<title>DOCUMENTARIOS [COLOR aqua][B]SIC TODA VERDADE[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+sic+toda+verdade/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/PidtTrxqppc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcTjmjI3fJGo5wI3YGFRvu7Pfu0A</thumbnail>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>DOCUMENTARIOS EL CHAPO</title>
+<title>DOCUMENTARIOS [COLOR aqua][B]EL CHAPO[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+el+chapo/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/QV51ztCjvdE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0vqQL3Z5qsf7cfpCC2PSs5glJmA</thumbnail>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>DOCUMENTARIOS PABLO ESCOBAR</title>
+<title>DOCUMENTARIOS [COLOR aqua][B]PABLO ESCOBAR[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+el+pablo+escobar/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/cJ_R_Uf15JQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1LjCwftAh1kk_nqc7UYK50kHe4A</thumbnail>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>DOCUMENTARIOS PRISOES TODO MUNDO</title>
+<title>DOCUMENTARIOS [COLOR aqua][B]PRISOES TODO MUNDO[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+prisoes/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/a9100V6yNuE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAODIXeaMsKw3VZlw-_oUyQTopwQw</thumbnail>
@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<title>DOCUMENTARIOS INCRIVEIS</title>
+<title>DOCUMENTARIOS [COLOR aqua][B]INCRIVEIS[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+incriveis/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/WwX-G_E7MYk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmA7HCyPSlrq723sUeQLcn9_7rHw</thumbnail>
@@ -49,7 +49,7 @@
 </item>
 
 <item>
-<title>DOCUMENTARIOS ALIENIGIAS</title>
+<title>DOCUMENTARIOS [COLOR aqua][B]ALIENIGIAS[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+alienigenas/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/hiWGUCXEIRg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIE_I_gyTT6TL_5We6oBpG8_13Kg</thumbnail>
@@ -58,7 +58,7 @@
 
 
 <item>
-<title>DOCUMENTARIOS DISCOVERY CHANNEL</title>
+<title>DOCUMENTARIOS [COLOR aqua][B]DISCOVERY CHANNEL[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+discovery+channel/</jsonrpc>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7_5V2ePRBtIeSlUz57XETKTZCAucWUPz8sfBw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
@@ -66,7 +66,7 @@
 </item>
 
 <item>
-<title>DOCUMENTARIOS NATIONAL GEOGRAPHIC</title>
+<title>DOCUMENTARIOS [COLOR aqua][B]NATIONAL GEOGRAPHIC[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentaries+national+geographic/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/78qP0HpfHD0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBv5FFQZJqkyOmB5ybZLdH2-qO8Fg</thumbnail>
@@ -74,7 +74,7 @@
 </item>
 
 <item>
-<title>FILMES BRASILEIROS TOP</title>
+<title>FILMES [COLOR aqua][B]BRASILEIROS TOP[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=filmes+da+favela/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/6XBoQLRHR70/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtaaRY0g8DTZEH1B6BtW_ttzgwvA</thumbnail>
