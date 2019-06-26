@@ -41,6 +41,14 @@
 </item>
 
 <item>
+<title>DOCUMENTARIOS INCRIVEIS</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+incriveis/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/WwX-G_E7MYk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmA7HCyPSlrq723sUeQLcn9_7rHw</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>DOCUMENTARIOS DISCOVERY CHANNEL</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+discovery+channel/</jsonrpc>
