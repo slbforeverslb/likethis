@@ -33,6 +33,14 @@
 </item>
 
 <item>
+<title>DOCUMENTARIOS PRISOES TODO MUNDO</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+prisoes/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/a9100V6yNuE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAODIXeaMsKw3VZlw-_oUyQTopwQw</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>DOCUMENTARIOS DISCOVERY CHANNEL</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+discovery+channel/</jsonrpc>
