@@ -49,6 +49,15 @@
 </item>
 
 <item>
+<title>DOCUMENTARIOS ALIENIGIAS</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+alienigenas/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/hiWGUCXEIRg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIE_I_gyTT6TL_5We6oBpG8_13Kg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>DOCUMENTARIOS DISCOVERY CHANNEL</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentarios+discovery+channel/</jsonrpc>
